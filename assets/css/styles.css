@@ -726,11 +726,6 @@ a{
     line-height: 1.75;
     color: #FFFFFF;
 }
-
-.contact{
-    /* width: 332px; */
-    /* padding-left: 78px; */
-}
 .contact__item{
     margin-top: 20px;
     display: flex;
