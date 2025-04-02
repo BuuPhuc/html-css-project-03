@@ -657,11 +657,13 @@ a{
 
 /*----------- Footer ----------*/
 .footer{
+    font-family: "Open Sans", sans-serif;
     background-color: #10375C;
     margin-top: 170px;
 }
 .footer__body{
     display: flex;
+    column-gap: 78px;
 }
 .footer__logo{
     width: 86px;
@@ -703,9 +705,7 @@ a{
     line-height: 1.75;
     color: #FFFFFF;
 }
-.menu__content{
-    margin-left: 78px;
-}
+
 .menu__list{
     margin-top: 20px;
 }
@@ -718,9 +718,7 @@ a{
     color: #A9B3BB;
 }
 
-.menu__content-1{
-    margin-left: 78px;
-}
+
 .menu__heading-1{
     margin-top: 28px;
     font-weight: 600;
@@ -730,8 +728,8 @@ a{
 }
 
 .contact{
-    width: 332px;
-    padding-left: 78px;
+    /* width: 332px; */
+    /* padding-left: 78px; */
 }
 .contact__item{
     margin-top: 20px;
